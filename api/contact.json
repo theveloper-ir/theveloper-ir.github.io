@@ -1,0 +1,15 @@
+{
+  "status": 200,
+  "email": "theveloper.ir@gmail.com",
+  "github": "https://github.com/theveloper-ir",
+  "linkedin": "https://www.linkedin.com/in/alireza-salehi1997/",
+  "portfolio": "https://cv.alireza-salehi.ir/",
+  "_links": {
+    "self": {
+      "href": "https://theveloper-ir.github.io/api/contact.json"
+    },
+    "root": {
+      "href": "https://theveloper-ir.github.io/api/index.json"
+    }
+  }
+}

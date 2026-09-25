@@ -1,0 +1,42 @@
+{
+  "status": 200,
+  "total": 2,
+  "data": [
+    {
+      "company": "Arta Group",
+      "role": "Full Stack Web Developer",
+      "type": "founder",
+      "period": {
+        "from": 2015,
+        "to": null
+      },
+      "summary": "freelance software studio for web applications and server hosting",
+      "responsibilities": [
+        "web applications",
+        "database design",
+        "bots",
+        "api design"
+      ]
+    },
+    {
+      "company": "The Railways of the Islamic Republic of Iran (RAI)",
+      "role": "Frontend Developer",
+      "period": {
+        "from": 2016,
+        "to": 2017
+      },
+      "summary": "web version of the railway operators software"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://theveloper-ir.github.io/api/experience.json"
+    },
+    "root": {
+      "href": "https://theveloper-ir.github.io/api/index.json"
+    },
+    "projects": {
+      "href": "https://theveloper-ir.github.io/api/projects.json"
+    }
+  }
+}

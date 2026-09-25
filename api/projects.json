@@ -1,0 +1,55 @@
+{
+  "status": 200,
+  "total": 4,
+  "data": [
+    {
+      "name": "E-Commerce Platform",
+      "year": 2024,
+      "stack": [
+        "laravel",
+        "mysql"
+      ],
+      "summary": "online store with product, order and customer management"
+    },
+    {
+      "name": "Hesab Ketab",
+      "year": 2024,
+      "stack": [
+        "laravel",
+        "mysql"
+      ],
+      "summary": "web-based personal finance manager"
+    },
+    {
+      "name": "peer-to-peer-bot",
+      "stack": [
+        "php"
+      ],
+      "summary": "two-way telegram chat bot",
+      "repository": "https://github.com/theveloper-ir/peer-to-peer-bot"
+    },
+    {
+      "name": "matomo-plugin-CaptchaHub",
+      "stack": [
+        "php"
+      ],
+      "summary": "captcha for matomo login (recaptcha, turnstile)",
+      "repository": "https://github.com/theveloper-ir/matomo-plugin-CaptchaHub"
+    }
+  ],
+  "more": "https://cv.alireza-salehi.ir/",
+  "_links": {
+    "self": {
+      "href": "https://theveloper-ir.github.io/api/projects.json"
+    },
+    "root": {
+      "href": "https://theveloper-ir.github.io/api/index.json"
+    },
+    "skills": {
+      "href": "https://theveloper-ir.github.io/api/skills.json"
+    },
+    "contact": {
+      "href": "https://theveloper-ir.github.io/api/contact.json"
+    }
+  }
+}

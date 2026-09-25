@@ -1,0 +1,42 @@
+{
+  "status": 200,
+  "backend": [
+    "php",
+    "laravel",
+    "codeigniter"
+  ],
+  "database": [
+    "mysql"
+  ],
+  "frontend": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "cms": [
+    "wordpress"
+  ],
+  "concepts": [
+    "oop",
+    "restful apis",
+    "devops"
+  ],
+  "tools": [
+    "git"
+  ],
+  "other_languages": [
+    "c#",
+    "c++"
+  ],
+  "_links": {
+    "self": {
+      "href": "https://theveloper-ir.github.io/api/skills.json"
+    },
+    "root": {
+      "href": "https://theveloper-ir.github.io/api/index.json"
+    },
+    "projects": {
+      "href": "https://theveloper-ir.github.io/api/projects.json"
+    }
+  }
+}

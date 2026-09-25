@@ -1,0 +1,36 @@
+{
+  "status": 200,
+  "name": "Alireza Salehi",
+  "title": "Software Engineer",
+  "location": "Iran",
+  "experience_years": "5+",
+  "focus": [
+    "backend development",
+    "scalable web applications",
+    "api design"
+  ],
+  "interests": [
+    "software architecture",
+    "devops practices",
+    "problem solving",
+    "open source"
+  ],
+  "languages": {
+    "persian": "native",
+    "english": "basic"
+  },
+  "_links": {
+    "self": {
+      "href": "https://theveloper-ir.github.io/api/about.json"
+    },
+    "root": {
+      "href": "https://theveloper-ir.github.io/api/index.json"
+    },
+    "skills": {
+      "href": "https://theveloper-ir.github.io/api/skills.json"
+    },
+    "contact": {
+      "href": "https://theveloper-ir.github.io/api/contact.json"
+    }
+  }
+}

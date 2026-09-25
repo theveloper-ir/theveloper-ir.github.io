@@ -1,0 +1,19 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "degree": "B.Sc.",
+      "field": "Software Technology Engineering",
+      "institution": "Shamsipour Technical and Vocational University",
+      "city": "Tehran"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://theveloper-ir.github.io/api/education.json"
+    },
+    "root": {
+      "href": "https://theveloper-ir.github.io/api/index.json"
+    }
+  }
+}

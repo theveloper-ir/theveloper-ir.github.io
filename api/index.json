@@ -1,0 +1,29 @@
+{
+  "status": 200,
+  "name": "Alireza Salehi",
+  "title": "Software Engineer",
+  "role": "Backend Developer",
+  "_links": {
+    "self": {
+      "href": "https://theveloper-ir.github.io/api/index.json"
+    },
+    "about": {
+      "href": "https://theveloper-ir.github.io/api/about.json"
+    },
+    "skills": {
+      "href": "https://theveloper-ir.github.io/api/skills.json"
+    },
+    "experience": {
+      "href": "https://theveloper-ir.github.io/api/experience.json"
+    },
+    "projects": {
+      "href": "https://theveloper-ir.github.io/api/projects.json"
+    },
+    "education": {
+      "href": "https://theveloper-ir.github.io/api/education.json"
+    },
+    "contact": {
+      "href": "https://theveloper-ir.github.io/api/contact.json"
+    }
+  }
+}

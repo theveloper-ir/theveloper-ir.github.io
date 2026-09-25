@@ -3,6 +3,7 @@
   "name": "Alireza Salehi",
   "title": "Software Engineer",
   "role": "Backend Developer",
+  "human_readable": "https://cv.alireza-salehi.ir/",
   "_links": {
     "self": {
       "href": "https://theveloper-ir.github.io/api/index.json"
